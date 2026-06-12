@@ -33,12 +33,14 @@ This project analyzes sales data using SQL aggregation techniques. The objective
 ## Queries Performed
 
 ### Monthly Sales Trend Analysis
+![Monthly Sales Trend Analysis](Monthly%20Sales%20Trend%20Analysis.png)
 
 * Calculated monthly revenue.
 * Calculated monthly order volume.
 * Sorted results chronologically.
 
 ### Top 3 Months by Sales
+![Top 3 Months by Sales Revenue](Top%203%20Months%20by%20Sales%20Revenue.png)
 
 * Ranked months based on total revenue.
 * Retrieved the top-performing sales months.
@@ -65,4 +67,4 @@ This project analyzes sales data using SQL aggregation techniques. The objective
 
 ## Author
 
-Samruddhi Patil
+samruddhi Patil
