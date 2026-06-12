@@ -37,14 +37,14 @@ This project analyzes sales data using SQL aggregation techniques. The objective
 ### 2. Insert Data  
 ![Insert online sales](Insert%20online%20sales.png)
 
-### Monthly Sales Trend Analysis
+### 3. Monthly Sales Trend Analysis
 ![Monthly Sales Trend Analysis](Monthly%20Sales%20Trend%20Analysis.png)
 
 * Calculated monthly revenue.
 * Calculated monthly order volume.
 * Sorted results chronologically.
 
-### Top 3 Months by Sales
+### 4. Top 3 Months by Sales
 ![Top 3 Months by Sales Revenue](Top%203%20Months%20by%20Sales%20Revenue.png)
 
 * Ranked months based on total revenue.
